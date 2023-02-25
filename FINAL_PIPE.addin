@@ -1,1 +1,13 @@
-﻿
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Assembly>C:\Users\MD SAQLAIN KHAN\source\repos\FINAL_PIPE\bin\x64\Debug\FINAL_PIPE.dll</Assembly>
+		<Name>Test</Name>
+		<AddInId>45711A3B-7A09-4FCA-B3CD-E7C4F2C94BFE</AddInId>
+		<FullClassName>FINAL_PIPE.Application</FullClassName>
+		<Text>Test</Text>
+		<VendorId>Test</VendorId>
+		<VendorDescription>Test</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

@@ -27,7 +27,7 @@ namespace FINAL_PIPE
             RibbonPanel panelInitializer = application.CreateRibbonPanel("Md Saqlain Khan", "Pipe Create");
       
 
-            CreateButton(application, "Pipe", "FINAL_PIPE.FINAL_PIPE", panelInitializer, "pipe.ico");
+            CreateButton(application, "Pipe", "FINAL_PIPE.FINAL_PIPE", panelInitializer, "C:\\Users\\MD SAQLAIN KHAN\\source\\repos\\FINAL_PIPE\\Resources\\pipe.ico");
 
             return Result.Succeeded;
 
