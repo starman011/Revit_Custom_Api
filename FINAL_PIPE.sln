@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINAL_PIPE", "FINAL_PIPE.csproj", "{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}.Debug|x64.ActiveCfg = Debug|x64
+		{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}.Debug|x64.Build.0 = Debug|x64
+		{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}.Release|x64.ActiveCfg = Release|x64
+		{FCA07CA8-6CF7-46B4-B9EC-3B4409EC50F7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {365BC4C1-0CBD-4974-8E9B-F54FE0B50EAA}
+	EndGlobalSection
+EndGlobal
