@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>PickElementsByRectangle</Name>
+		<Assembly>C:\Users\MD SAQLAIN KHAN\source\repos\RevitAPI_Collections\src\RevitAPIEveryDay\Day03\PickElementsByRectangle.dll</Assembly>
+		<AddInId>A39781E3-3AF1-46E9-98EC-8880188B5F7C</AddInId>
+		<FullClassName>PickElementsByRectangle.PickElementsByRectangle</FullClassName>
+		<VendorId>Vulcan Khan</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
