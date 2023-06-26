@@ -1,6 +1,6 @@
 
 # Revit_Custom_Api
-This repository makes a simple, customisable pipe using Revit API
+This repository makes a simple, customisable changes to Revit, using Revit API
 
 
 Note: Please note it is not a standalone repo, it needs to get activated using prerequisites like: 
